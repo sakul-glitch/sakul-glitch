@@ -2,13 +2,15 @@
 
 im sakul-glith!
 
+i am a German but i can read/write, listen/talk in englich to!
+
 i am a solo dev that likes programing.
 
 i may be a bit messy but i get the jop done.
 
 and i am currently the head dev from "clpg game" and "sakul's Lib". (and everythind else)
 
-## i love to learn what i like!
+## i'l love to learn what i like!
 
 im currently expermirenting and learnig "Batch" (the .bat file format)
 
@@ -30,13 +32,13 @@ not more tool's unless you count "music" as one!
 
 ## want to reach me?
 
-i don't like in grubs or "team-work" (sorry)
+i don't like work in grubs or "team-work" (sorry)
 
 but im looking forward to talk in grubs!
 
-and have games with them! -> like MC, yu-gi-oh! (masterduel),or "Bloons td6" if you like, "raft"  is a thing to! (ALL on steam)
+and have fun games with them! -> like MC, yu-gi-oh! (masterduel),or "Bloons td6" if you like, "raft"  is a thing to! (ALL on steam)
 
-BUT I'M NOT PLAYING RUSCH,SCHOTING,BATLLE ROALE (fornite,cs-go,tf2)  CUZ' I DON'T LIKE THEM!
+BUT I'M NOT PLAYING RUSCH,SCHOTING,BATLLE ROALE. (fornite,cs-go,tf2)  CUZ' I DON'T LIKE THEM!
 
 i link my social's in my bio! (profile)
 
