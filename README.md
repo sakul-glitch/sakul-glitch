@@ -15,7 +15,7 @@ and i am currently the head dev from "clpg game" and "sakul's Lib". (and everyth
 im currently expermirenting and learnig "Batch" (the .bat file format)
 
 im want to learn 2 other programing lengunge's
-after or while i program in batch
+ after or while i program in batch
 
 
 the lengunges i wanna learn:
@@ -24,7 +24,12 @@ the lengunges i wanna learn:
 
 ## tool's i use?
 
-vs-code with a bunch of addons,
+ . vs-code with a bunch of addons,
+ 
+ . remote softwere, to connect to windos (anydesk)
+  (or "ssh" if is there)
+ 
+ . tailescale; to connect without needing ip everytime, or stresing about it.
 
 (-and some ai to help me)
 
