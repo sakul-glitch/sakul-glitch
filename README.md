@@ -12,31 +12,33 @@ and, i am currently the head dev from "clpg game" and "sakul's Lib". (and everyt
 
 ## my preferences;
 
- . privacy, so i can work in pace.
+ . work-privacy, so i can work in pace.
 
- . coffé, do i even explain that one? (yes; i am a coffé lover~)
+ . cofé, do i even explain that one? (yes; i am a coffé lover~)
 
  . solo work, so i don't need to talk like an hour to just get startet.
 
- . no pressure, (self explanatory), i don't want gettin' stressed becuse of to many things!
+ . no pressure, (self explanatory), i don't want gettin' stressed/annoyed becuse of too many things!
 
  . clear Instructions, or else i get confused about the opjective, (and explaind plz)
 
  . a system that i can remote into, so that work from home is essy. (read what 'tool's i use' to get more info.)
 
- . seperation from private life and work, becuse i want to live [a pacefull life]
+ . good seperation from private life and work, becuse i want to live [a pacefull life]
 
  ## my current knowledge;
 
  some batch coding, (-read "tool's i use" plz)
 
- good linux knowlwge,
+ some good linux knowlwge,
 
- tech-knowlge, (yeah, i ilke tech~)
+ tech-knowlge, (yeah, i ilke tech~),
 
  soldering, (wanna' learn that~),
 
  repairing, (50/50% true),
+
+ basic/*advanced security/privicy knowlege.
 
  playin' trums,beatboxing' (the mouth thing), and singing. (need text in able to do that btw)
  
@@ -52,6 +54,7 @@ im want to learn 2 other programing lengunge's
 the lengunge's i wann'a learn:
  - .sh (linux, but i think it's a debian or arch thing)
  - .ips (the macbook lengunge is a little bit... ok i have apsolutly no ida how to code in that)
+ - maybe python (idk, but i think it's cool)
 
 ## tool's i use?
 
@@ -66,7 +69,11 @@ the lengunge's i wann'a learn:
 
   =>Remember: the listing 1 above IS [NOT] TRUE, cus' il' pland that in the future!
 
-(-and some ai to help me)
+ .veracrypt, (to encrypt my files)
+
+  .windscribe, (to encrypt my trefic)
+
+(-and some 'ai'  to help me)
 
 not more tool's unless you count' "music"(and bear, [ with 5-10%]) as one!
 
@@ -80,7 +87,7 @@ but i can smoetimes play fun games with them! -> like MC, yu-gi-oh! (masterduel)
 
 (ALL' on steam)
 
-BUT I'M NOT PLAYING RUSCH,SCHOTING,BATLLE ROALE. (fornite,cs-go,tf2)  CUZ' I DON'T LIKE THEM!
+BUT I'M NOT PLAYING RUSCH,SCHOTING,BATLLE-ROALE games! (fornite,cs-go,tf2)  *CUZ' I DON'T LIKE THEM!
 
 (<i>-but don't expect much working with them)
 
